@@ -1,0 +1,10 @@
+<header id="header">
+<img src="https://www.underconsideration.com/brandnew/archives/boundless_logo_detail.png" id="header-img" >
+<nav id="nav-bar">
+  <ul>
+    <li><a href="https://www.google.com/" class="nav-link" target="_blank">Google</li>
+    <li><a href="http://www.bing.com/" class="nav-link" target="_blank">Bing</li>
+    <li><a href="http://www.yahoo.com/" class="nav-link" target="_blank">Yahoo</li>
+  </ul>
+  </nav>
+</header>
