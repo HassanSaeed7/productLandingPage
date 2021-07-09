@@ -2,9 +2,14 @@
 <img src="https://www.underconsideration.com/brandnew/archives/boundless_logo_detail.png" id="header-img" >
 <nav id="nav-bar">
   <ul>
-    <li><a href="https://www.google.com/" class="nav-link" target="_blank">Google</li>
-    <li><a href="http://www.bing.com/" class="nav-link" target="_blank">Bing</li>
-    <li><a href="http://www.yahoo.com/" class="nav-link" target="_blank">Yahoo</li>
+    <li><a href="" class="nav-link">Product</li>
+    <li><a href="" class="nav-link"">Pricing</li>
+    <li><a href="" class="nav-link">Sign-Up</li>
   </ul>
   </nav>
 </header>
+
+<footer>
+<input type="email" placeholder="Enter email here"><label for="email">Subscribe for more deals!</label>
+<button type="submit">Submit</button>
+</footer>
