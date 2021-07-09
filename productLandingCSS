@@ -13,6 +13,8 @@ h1 {
   font-size: 500%;
 }
 #form {
+  border: 1px;
+  border-radius: 10px;
   background-color: lightgreen;
   padding: 2%;
 }
@@ -23,16 +25,22 @@ h1 {
   padding: 10em;
 }
 footer {
-  width: 100%;
+  margin: auto;
+  width: 40%;
 }
 #email {
-  width: 30%;
+  width: 70%;
   text-align: center;
-  margin-top: 5%;
+  margin-top: 2%;  
+  border: 1px;
+  border-radius: 10px;
+  padding: 0.7em;
 }
 #email-label {
   margin: 1em;
-  font-size: 5em;
+  font-size: 3em;
+  width: 50%;
+
 }
 #submit {
   width: 30%;
