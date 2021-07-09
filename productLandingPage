@@ -2,14 +2,18 @@
 <img src="https://www.underconsideration.com/brandnew/archives/boundless_logo_detail.png" id="header-img" >
 <nav id="nav-bar">
   <ul>
-    <li><a href="" class="nav-link">Product</li>
+    <li><a href="#" class="nav-link">Product</li>
     <li><a href="" class="nav-link"">Pricing</li>
-    <li><a href="" class="nav-link">Sign-Up</li>
+    <li><a href="#form" class="nav-link">Sign-Up</li>
   </ul>
-  </nav>
+</nav>
 </header>
 
+<br>
+
 <footer>
+<form id="form">
 <input type="email" placeholder="Enter email here"><label for="email">Subscribe for more deals!</label>
 <button type="submit">Submit</button>
+</form>
 </footer>
