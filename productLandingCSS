@@ -1,18 +1,42 @@
 #header-img {
-  position: sticky;
   height: 10%;
   width: 10%;
 }
-#nav-bar {
-  margin: auto;
-  width: 100%;
-}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 1%;
+header {
   background-color: lightgreen;
 }
-li {
-  display: inline;
+h1 {
+  margin: auto;
+  margin-top: -115px;
+  text-align: center;
+  font-family: helvetica;
+  font-size: 500%;
+}
+#form {
+  background-color: lightgreen;
+  padding: 2%;
+}
+#email-label {
+  display: table;
+}
+#video {
+  padding: 10em;
+}
+footer {
+  width: 100%;
+}
+#email {
+  width: 30%;
+  text-align: center;
+  margin-top: 5%;
+}
+#email-label {
+  margin: 1em;
+  font-size: 5em;
+}
+#submit {
+  width: 30%;
+  padding: 1em;
+  border: 1px;
+  border-radius: 10px;
 }
