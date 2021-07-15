@@ -22,7 +22,9 @@ h1 {
   display: table;
 }
 #video {
-  padding: 10em;
+  background-color: lightgreen;
+  padding: 10%;
+  margin-top: 10px;
 }
 footer {
   margin: auto;
