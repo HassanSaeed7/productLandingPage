@@ -1,0 +1,61 @@
+#header-img {
+  height: 10%;
+  width: 10%;
+}
+header {
+  background-color: lightgreen;
+}
+h1 {
+  margin: auto;
+  margin-top: -115px;
+  text-align: center;
+  font-family: helvetica;
+  font-size: 500%;
+}
+#form {
+  border: 1px;
+  border-radius: 10px;
+  background-color: lightgreen;
+  padding: 2%;
+}
+#email-label {
+  display: table;
+}
+#video {
+  background-color: lightgreen;
+  padding: 10%;
+  margin-top: 10px;
+}
+footer {
+  margin: auto;
+  width: 40%;
+}
+#email {
+  width: 70%;
+  text-align: center;
+  margin-top: 2%;  
+  border: 1px;
+  border-radius: 10px;
+  padding: 0.7em;
+}
+#email-label {
+  margin: 10%;
+  font-size: 3em;
+  width: 50%;
+
+}
+#submit {
+  width: 30%;
+  padding: 1em;
+  border: 1px;
+  border-radius: 10px;
+}
+#products {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  background-color: lightgreen;
+  padding: 5%;
+  border: 1px;
+  border-radius: 10px;
+}
