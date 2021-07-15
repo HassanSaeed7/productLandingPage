@@ -48,3 +48,20 @@ footer {
   border: 1px;
   border-radius: 10px;
 }
+#products {
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
+#product1 {
+  background-color: lightgreen;
+  padding: 5%;
+  border: 1px;
+  border-radius: 10px;
+}
+#product2 {
+  background-color: lightgreen;
+  padding: 5%;
+  border: 1px;
+  border-radius: 10px;
+}
