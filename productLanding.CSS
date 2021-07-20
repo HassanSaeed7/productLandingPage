@@ -67,9 +67,3 @@ footer {
   border-radius: 100px;
   border-color: black;
 }
-#description {
-  list-style-type: none;
-  display: grid;
-  align-items: center;
-  justify-content: center;
-}
