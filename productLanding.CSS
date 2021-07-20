@@ -16,7 +16,7 @@
 #form {
   border: 1px;
   border-radius: 10px;
-  background-color: lightgreen;
+  background-color: lightgrey;
   padding: 2%;
 }
 #email-label {
@@ -26,7 +26,7 @@
   padding: 5%;
   margin-top: 10px;
 }
-footer {
+#footer {
   margin: auto;
   width: 40%;
 }
