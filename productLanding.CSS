@@ -53,28 +53,37 @@ footer {
 #products {
   display: flex;
   flex-direction: row;
-  background-color: aqua;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-content: center;
   padding: 5%;  
   border: 10px;
   border-radius: 100px;
+  background-color: black;
 }
 #product1 {
   border-style: solid;
   border: 10px;
   border-color: black;
   border-width: 10px;
+  background-color: aqua;
+  width: 5%;
+  height: 5%:
 }
 #product2 {
   border-style: solid;
   border: 10px;
   border-color: black;
   border-width: 10px;
+  background-color: aqua;
+  width: 5%;
+  height: 5%:
 }
 #product3 {
   border-style: solid;
   border: 10px;
   border-color: black;
   border-width: 10px;
+  background-color: aqua;
+  width: 5%;
+  height: 5%:
 }
