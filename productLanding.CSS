@@ -1,17 +1,9 @@
 #header-img {
   height: 20%;
   width: 10%;
-  position: absolute;
+  position: fixed;
   left: 25px;
   top: 0;
-}
-#header {
-  background-color: lightgreen;
-  margin: auto;
-  text-align: center;
-  font-family: helvetica;
-  font-size: 200%;
-  padding: 7%;
 }
 #form {
   border: 1px;
@@ -108,4 +100,8 @@ h2 {
 }
 #navbar {
   position: fixed;
+  right: 10px;
+  display: flex;
+  column-gap: 10px;
+  background-color: aqua;
 }
