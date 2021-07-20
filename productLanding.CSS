@@ -3,9 +3,9 @@
   width: 100%;
   position: fixed;        
   background-color: rgb(236, 234, 202);
-  padding: 10px 0;
+
   top: 0;
-  line-height: 3;
+  line-height: 2;
   display: flex;
 }
 h1 {
@@ -21,6 +21,9 @@ a {
 a:hover {
   background-color: #555;
   color: white;
+}
+body {
+  padding-top: 150px;
 }
 #form {
   border: 1px;
