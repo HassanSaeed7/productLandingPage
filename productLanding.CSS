@@ -1,5 +1,5 @@
 
-#header {
+#header {/*Need to fix this*/
   width: 100%;
   position: fixed;        
   background-color: rgb(236, 234, 202);
@@ -77,28 +77,28 @@ body {
   text-align: center;
   border: 10px solid black;
   border-width: 3px;
-  width: 30%;
-  height: 55%;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  width: 30%;/*Need to fix this*/
+  height: 55%;/*Need to fix this*/
+  padding-top: 3%;/*Need to fix this*/
+  padding-bottom: 3%; /*Need to fix this*/
 }
 #product2 {
   text-align: center;
   border: 10px solid black;
   border-width: 3px;
-  width: 30%;
-  height: 55%;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  width: 30%;/*Need to fix this*/
+  height: 55%;/*Need to fix this*/
+  padding-top: 3%;/*Need to fix this*/
+  padding-bottom: 3%;/*Need to fix this*/
 }
 #product3 {
   text-align: center;
   border: 10px solid black;
   border-width: 3px;
-  width: 30%;
-  height: 55%;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  width: 30%;/*Need to fix this*/
+  height: 55%;/*Need to fix this*/
+  padding-top: 3%;/*Need to fix this*/
+  padding-bottom: 3%;/*Need to fix this*/
 }
 .prodhead {
   text-decoration: underline;
