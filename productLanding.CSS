@@ -50,17 +50,25 @@ footer {
   border: 1px;
   border-radius: 10px;
 }
-#products {
+#product1 {
   display: flex;
-  justify-content: space-evenly;
+  background-color: aqua;
   align-content: center;
-  background-color: lightgreen;
   padding: 5%;
-  border: 1px;
-  border-radius: 10px;
+  border: 10px;
+  border-radius: 100px;
+  border-color: black;
+}
+#product2 {
+  display: flex;
+  align-content: center;
+  padding: 5%;
+  border: 10px;
+  border-radius: 100px;
+  border-color: black;
 }
 #description {
-  list-style: none;
+  list-style-type: none;
   display: grid;
   align-items: center;
   justify-content: center;
