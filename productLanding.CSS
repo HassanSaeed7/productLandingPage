@@ -61,6 +61,19 @@ footer {
   border-radius: 100px;
 }
 #product1 {
+  border-style: solid;
+  border: 10px;
+  border-color: black;
+  border-width: 10px;
+}
+#product2 {
+  border-style: solid;
+  border: 10px;
+  border-color: black;
+  border-width: 10px;
+}
+#product3 {
+  border-style: solid;
   border: 10px;
   border-color: black;
   border-width: 10px;
