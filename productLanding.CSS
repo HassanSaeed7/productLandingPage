@@ -58,7 +58,6 @@ footer {
   padding: 5%;  
   border: 10px;
   border-radius: 100px;
-  background-color: black;
 }
 #product1 {
   text-align: center;
@@ -66,7 +65,6 @@ footer {
   border: 10px;
   border-color: black;
   border-width: 10px;
-  background-color: aqua;
   width: 30%;
   height: 55%;
 }
@@ -76,17 +74,15 @@ footer {
   border: 10px;
   border-color: black;
   border-width: 10px;
-  background-color: aqua;
   width: 30%;
   height: 55%;
 }
 #product3 {
   text-align: center;
   border-style: solid;
-  border: 10px;
+  border: 100px;
   border-color: black;
-  border-width: 10px;
-  background-color: aqua;
+  border-width: 100px;
   width: 30%;
   height: 55%;
 }
