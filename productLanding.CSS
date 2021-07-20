@@ -3,6 +3,7 @@
   width: 10%;
   position: absolute;
   left: 25px;
+  top: 0;
 }
 #header {
   background-color: lightgreen;
@@ -10,6 +11,7 @@
   text-align: center;
   font-family: helvetica;
   font-size: 200%;
+  padding: 7%;
 }
 #form {
   border: 1px;
@@ -22,7 +24,7 @@
 }
 #video {
   background-color: lightgreen;
-  padding: 10%;
+  padding: 5%;
   margin-top: 10px;
 }
 footer {
@@ -60,4 +62,7 @@ footer {
 }
 #description {
   list-style: none;
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
