@@ -24,6 +24,7 @@ a:hover {
 }
 body {
   padding-top: 150px;
+  background-color: #eee;
 }
 #form {
   border: 1px;
@@ -40,7 +41,7 @@ body {
 }
 #footer {
   margin: auto;
-  width: 40%;
+  width: 30%;
 }
 #email {
   width: 70%;
