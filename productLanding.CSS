@@ -87,10 +87,25 @@
   padding-top: 3%;
   padding-bottom: 3%;
 }
-h2, .prodhead {
+.prodhead {
   text-decoration: underline;
+  font-weight: bolder;
 }
 .buy {
   padding: 5px;
   border-radius: 10px;
+}
+#flex-container {
+  display: grid;
+  justify-content: center;
+}
+h2 {
+  font-weight: bolder;
+}
+.info-img {
+  width: 40px;
+  height: auto;
+}
+#navbar {
+  position: fixed;
 }
