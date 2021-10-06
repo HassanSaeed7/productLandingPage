@@ -1,129 +1,14 @@
-
-#header {/*Need to fix this*/
-  width: 100%;
-  position: fixed;        
-  background-color: #eee;
-
-  top: 0;
-  line-height: 2;
-  display: flex;
-}
-h1 {
-  text-align: center;
-  top: 0;
-  font-family: 'Bevan';
-}
-a {
-  text-decoration: none;
-  display: block;
-  font-size: 150%;
-}
-a:hover {
-  background-color: #555;
-  color: white;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 body {
-  padding-top: 150px;
-  background-color: #eee;
-}
-#form {
-  border-radius: 1px;
-  background-color: lightgrey;
-}
-#email-label {
-  display: table;
-}
-#video {
-  padding: 5%;
-  margin-top: 10px;
-}
-#footer {
-  margin: auto;
-  width: 100%;
-  position: relative;
-  bottom: 0;
-}
-#email {
-  width: 30%;
-  text-align: center; 
-  border: 1px;
-  border-radius: 10px;
-}
-#email-label {
-  margin: 1%;
-  font-weight: bold;
-  width: 50%;
-  padding-top: 10px;
-
-}
-#submit {
-  width: 10%;
-  margin-top: 20px;
-  border: 1px;
-  border-radius: 10px;
-  background: lightgreen;
-}
-#products {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-content: center;
-  align-items: stretch;
-  padding: 5%;  
-  border: 10px;
-  border-radius: 100px;
-}
-#product1 {
-  text-align: center;
-  border: 10px solid black;
-  border-width: 3px;
-  width: 30%;/*Need to fix this*/
-  height: 55%;/*Need to fix this*/
-  padding-top: 3%;/*Need to fix this*/
-  padding-bottom: 3%; /*Need to fix this*/
-}
-#product2 {
-  text-align: center;
-  border: 10px solid black;
-  border-width: 3px;
-  width: 30%;/*Need to fix this*/
-  height: 55%;/*Need to fix this*/
-  padding-top: 3%;/*Need to fix this*/
-  padding-bottom: 3%;/*Need to fix this*/
-}
-#product3 {
-  text-align: center;
-  border: 10px solid black;
-  border-width: 3px;
-  width: 30%;/*Need to fix this*/
-  height: 55%;/*Need to fix this*/
-  padding-top: 3%;/*Need to fix this*/
-  padding-bottom: 3%;/*Need to fix this*/
-}
-.prodhead {
-  text-decoration: underline;
-  font-weight: bolder;
-}
-.buy {
-  padding: 5px;
-  background: yellow;
-  width: 20%;
-}
-#flex-container {
-  display: grid;
-  justify-content: center;
-}
-h2 {
-  font-weight: bolder;
-}
-.info-img {
-  width: 40px;
-  height: auto;
+  margin: 0;
+  padding: 0;
 }
 #nav-bar {
-  position: fixed;
-  right: 10px;
   display: flex;
-  column-gap: 100px;
-  top: 0;
+  justify-content: space-between;
+ 
 }
